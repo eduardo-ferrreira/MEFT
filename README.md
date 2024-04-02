@@ -1,0 +1,2 @@
+188W/188Re decay chain is studied in the context of a nuclear physics graduate course. The decay chain in question has promising medical applications and is represented using a set of linear differential equations.The analysis allowed us to conclude that the generation of 188Re by alternating irradiation results has a significantly more uniform distribution of
+188Re production across time. Furthermore, although this process produces less radioactivity, it was found that it allows the use of the radionuclide for a longer period of time.
